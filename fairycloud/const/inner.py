@@ -34,7 +34,7 @@ FAIRY_INNER_ACTION_PATCH_ENHANCE = 'patch_enhance'
 FAIRY_INNER_ACTION_CLOUDFUNC = 'cloudfunc'
 
 # 批量处理的动作
-FAIRY_INNER_ACTION_BATCH_PROCESS = 'batch_process'
+FAIRY_INNER_ACTION_BATCH_PROCESS = 'batch'
 
 # 导出文件的动作
 FAIRY_INNER_ACTION_EXPORT_FILE = 'export_file'

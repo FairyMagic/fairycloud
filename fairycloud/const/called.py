@@ -55,11 +55,6 @@ FAIRY_CALLED_DISPLAY_FIELDS = 'display_fields'
 FAIRY_CALLED_QUERY_FILTERS = 'filters'
 
 """
-云函数，批量函数等名称
-"""
-FAIRY_CALLED_FUNC_HANDLER = 'func_handler'
-
-"""
 函数声明：云函数或者批量函数的名称
 """
 FAIRY_CALLED_FUNC_NAME = 'func_name'

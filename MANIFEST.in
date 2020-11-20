@@ -1,0 +1,9 @@
+include AUTHORS
+include MANIFEST.in
+include *.md
+
+graft fairycloud
+
+global-exclude .DS_Store
+global-exclude *.py[co]
+global-exclude __pycache__
